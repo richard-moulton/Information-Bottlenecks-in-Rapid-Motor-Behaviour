@@ -5,9 +5,9 @@ Analysis and figure generation code for the paper "Capacity Limits Lead to Infor
 
 The majority of this paper's code is available under the GPL-3.0 license. There are two broad exceptions to this.
 
-Code derived from John Kruschke's book "Doing Bayesian Data Analysis, Second Edition: A Tutorial with R, JAGS, and Stan" is freely available from the book's website: [https://sites.google.com/site/doingbayesiandataanalysis/software-installation](https://sites.google.com/site/doingbayesiandataanalysis/software-installation)
+Code derived from John Kruschke's book "Doing Bayesian Data Analysis, Second Edition: A Tutorial with R, JAGS, and Stan" is freely available from the book's [website](https://sites.google.com/site/doingbayesiandataanalysis/software-installation).
 
-Code from Kinarm is copyright BKIN Technologies Ltd and is shared here with permission. These files are included for the purposes of reproducibility. The latest versions are freely available, with registration, from [https://kinarm.com/support/software-downloads/](https://kinarm.com/support/software-downloads/).
+Code from Kinarm is copyright BKIN Technologies Ltd and is shared here with permission. These files are included for the purposes of reproducibility. The latest versions are freely available, with registration, from the [Kinarm website](https://kinarm.com/support/software-downloads/).
 
 ## Code
 
@@ -15,13 +15,13 @@ Code from Kinarm is copyright BKIN Technologies Ltd and is shared here with perm
 
 Scripts and functions for analysing raw .c3d files produced by a Kinarm Exoskeleton or Endpoint robot. Calculates a number of trial-level statistics for the OH, OHA, TOH, and TOHA tasks.
 
-NOTE: The Kinarm utility functions in this project are freely available, with registration, from [https://kinarm.com/support/software-downloads/](https://kinarm.com/support/software-downloads/)
+NOTE: The Kinarm utility functions in this project are freely available, with registration, from the [Kinarm website](https://kinarm.com/support/software-downloads/).
 
 2. Bayesian Statistical Analysis
 
 Scripts for performing Bayesian statistical analysis.
 
-NOTE: These scripts rely on code written to accompany the book "Kruschke, J. K. (2015). Doing Bayesian Data Analysis, Second Edition: A Tutorial with R, JAGS, and Stan. Academic Press / Elsevier." These files (and many others) can be found at the book's website: [https://sites.google.com/site/doingbayesiandataanalysis/software-installation](https://sites.google.com/site/doingbayesiandataanalysis/software-installation).
+NOTE: These scripts rely on code written to accompany the book "Kruschke, J. K. (2015). Doing Bayesian Data Analysis, Second Edition: A Tutorial with R, JAGS, and Stan. Academic Press / Elsevier." These files (and many others) can be found at the book's [website](https://sites.google.com/site/doingbayesiandataanalysis/software-installation).
 
 3. SSS Simulation
 
