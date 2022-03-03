@@ -1,6 +1,8 @@
 # Information-Bottlenecks-in-Rapid-Motor-Behaviour
 Analysis and figure generation code for the paper "Capacity Limits Lead to Information Bottlenecks for Ongoing Rapid Motor Behaviour."
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6326269.svg)](https://doi.org/10.5281/zenodo.6326269)
+
 ## Note about licenses
 
 The majority of this paper's code is available under the GPL-3.0 license. There are two broad exceptions to this.
