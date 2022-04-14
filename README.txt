@@ -67,7 +67,7 @@ informationBottleneckPaperFigures.m
 - A collection of functions that are called throughout the other scripts.
 
 alignTrials.m
-balndAltmanPlot.m
+blandAltmanPlot.m
 cividis.m *- from MATLAB File Exchange (https://www.mathworks.com/matlabcentral/fileexchange/66493-alexhenderson-cividis)
 dir2.m
 matFileCombiner.m
